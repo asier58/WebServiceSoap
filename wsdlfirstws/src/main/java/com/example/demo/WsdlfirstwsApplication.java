@@ -8,6 +8,7 @@ public class WsdlfirstwsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WsdlfirstwsApplication.class, args);
+		//Main
 	}
 
 }
